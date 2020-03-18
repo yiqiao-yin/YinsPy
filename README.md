@@ -100,13 +100,3 @@ Personal Home AI Surveillance:
 <p align="center">
   <img width="400" src="https://github.com/yiqiao-yin/YinsPy/blob/master/videos/2020_1_7.gif">
 </p>
-
-## Explainable Artificial Intelligence (XAI)
-
-A field of artificial intelligence initiated by DARPA is called Explainable Artificial Intelligence (XAI). According to their site, dramatic success in machine learning has led to a torrent of Artificial Intelligence (AI) applications. Continued advances promise to produce autonomous systems that will perceive, learn, decide, and act on their own. However, the effectiveness of these systems is limited by the machine’s current inability to explain their decisions and actions to human users.
-
-The Explainable AI (XAI) Initiative aims to create a suite of machine learning techniques that: (1) Produce more explainable models, while maintaining a high level of learning performance (prediction accuracy); and (2) Enable human users to understand, appropriately trust, and effectively manage the emerging generation of artificially intelligent partners.
-
-- This notebook [Yin's Capital: XAI Initiatives](https://github.com/yiqiao-yin/YinsPy/blob/master/scripts/python_XAI_Initiatives.ipynb) takes the first step and move our R&D process to move along this direction. 
-
-- To illustrate our point, we start with UCI Breast Cancer data set. The data is provided by Dr. William H. Wolberg, General Surgery Dept. University of Wisconsin at Clinical Sciences Center and the python notebook is [here](https://github.com/yiqiao-yin/YinsPy/blob/master/scripts/python_XAI_UCIBreastCancerData.ipynb).
