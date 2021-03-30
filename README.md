@@ -103,7 +103,7 @@ Personal Home AI Surveillance:
 
 Deep Animation:
 
-Though this branch of application is commonly called "DeepFake", I simply called a fun animation using deep learning, specifically a special type of field of Generative Adversarial Network (GAN). I have not yet seen or found any legally profitable business operation that can be built or designed using this technology. However, I do believe this type of technology can be used in examine real/fake social media. In other words, we are fighting against the people who abuse the technology with the same tech they used to abuse other celebrity or famous to gain profit. 
+Though this branch of application is commonly called "DeepFake", I simply called a fun animation using deep learning, specifically a special type of field of Generative Adversarial Network (GAN). I have not yet seen or found any legally profitable business operation that can be built or designed using this technology. However, I do believe this type of technology can be used in examine real/fake social media. In other words, we are fighting against the people who abuse the technology with the same tech they used to abuse other celebrity or famous people to boost their own interest. 
 
 <p align="center">
   <img width="400" src="https://github.com/yiqiao-yin/YinsPy/blob/master/videos/yin-musk.gif">
